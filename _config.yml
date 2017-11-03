@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 长腿叔叔的博客 | BY Blog
+title: 长腿叔叔的博客
+SEOTitle: 长腿叔叔的博客 | Python | 机器学习 |  HTML | CSS | JavaScript
 header-img: img/post-bg-desk.jpg
 email: cunxi1992@gmail.com
-description: "Be what you wanna to be."
-keyword: "BY, BY Blog, 长腿叔叔的博客, 张朝群, Python, HTML, CSS, JavaScript"
+description: "产品经理，爱好编程，励志成为一名艺术家。"
+keyword: "长腿叔叔的博客, 张朝群, Python, 机器学习, HTML, CSS, JavaScript"
 url: "https://cunxi1992.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cunxi1992" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Be what you wanna to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     cunxi1991
+zhihu_username:     zhang-zhao-qun
+github_username:    cunxi1992
+facebook_username:  longlegs1992
+jianshu_username:   95ee1779b00e
+#twitter_username:   
 
 
 
